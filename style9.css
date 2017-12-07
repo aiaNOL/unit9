@@ -1,0 +1,21 @@
+.form {
+    width: 50%;
+    float: left;
+    
+}
+.table {
+    width: 50%;
+    float: right;
+}
+
+h3 {
+    text-align: center;
+}
+#jerry {
+    float: left;
+}
+
+.review {
+    width: 50%;
+    float: right;
+}
